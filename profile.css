@@ -1,0 +1,42 @@
+* {
+    background-color: rgb(174, 235, 174);
+
+}
+
+h1 {
+    text-align: center;
+}
+
+nav2 {
+    margin-left: 400px; 
+    margin-right: 400px;
+    justify-content: center;
+
+}
+.styleBtn{
+    background-color: yellow;
+    border: 4px blue dashed;
+    border-radius: 5px;
+    color: orange; 
+}
+.styleBtn:hover{
+    background-color: purple;
+}
+
+nav {
+    margin-left: 15px;
+    margin-top: 25px;
+    text-decoration: bold;
+}
+
+button {
+    margin: 100px;
+    margin-left: 140px;
+    align-items: center;
+    background-color: white;
+    width: 170px;
+}
+
+foot {
+    margin-top: 400px;
+}
